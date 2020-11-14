@@ -1,0 +1,22 @@
+.deksio_alignment {
+    text-align: right;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+.koumpouthkia {
+    padding: 3px;
+    margin-top: 15px;
+            }
+
+.box {
+    border-radius: 20px; 
+    border-color: lightsteelblue ; 
+    margin-top: 10px; 
+    width: 400px; 
+    padding: 10px;
+}
